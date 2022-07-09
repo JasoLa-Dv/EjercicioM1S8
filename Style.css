@@ -1,5 +1,10 @@
+div {
+ width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
 .caja {
-    border: white solid 2px;
     width: 300px;
     height: 300px;
     margin: 20px;
